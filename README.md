@@ -1,2 +1,3 @@
-# sail.js-project
-its a demo for sail.js testing
+# test-project
+
+a [Sails](http://sailsjs.org) application
